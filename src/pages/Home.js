@@ -5,10 +5,10 @@ const Home = () => {
 
     const {data} = useProducts();
     console.log(data);
-    
+
     return (
         <div>
-            <h1> Home Page </h1>
+            <h1> Home-Page </h1>
         </div>
     );
 };
